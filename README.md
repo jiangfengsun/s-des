@@ -18,14 +18,14 @@ text (8-bit plaintext or ciphertext)<br/>
 key (10-bit key)<br/>
 <br/>
 <br/>
-Usage (encryption):<br/>
+e.g. (encryption):<br/>
 ```
 $sdes -e 11111111 0000011111
 ```
 Ciphertext: 11100001<br/>
 <br/>
 <br/>
-Usage (decryption):<br/>
+e.g. (decryption):<br/>
 ```
 $sdes -d 11100001 0000011111
 ```
