@@ -4,9 +4,10 @@ A simplified DES (S-DES) as descriped in the attachment (sdes-intro.pdf) to illu
 Usage:
 
 /***********************************************************************
+
 sdes [-e] [-d] [text] [key]
 
-
+<br/>
 OPTION:
 
 -e (Encryption)
