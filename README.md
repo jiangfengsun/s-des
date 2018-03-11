@@ -8,31 +8,23 @@ A simplified DES (S-DES) as descriped in the attachment (sdes-intro.pdf) to illu
 sdes [-e] [-d] [text] [key]
 
 <br/>
-OPTION:
-
--e (Encryption)
-
+OPTION:  
+-e (Encryption)  
 -d (Decryption)
 
 <br/>
-INPUT:
-
-text (8-bit plaintext or ciphertext)
-
+INPUT:  
+text (8-bit plaintext or ciphertext)  
 key (10-bit key)
 
 <br/>
-Usage (encryption):
-
-$sdes -e 11111111 0000011111
-
+Usage (encryption):  
+$sdes -e 11111111 0000011111  
 Ciphertext: 11100001
 
 <br/>
-Usage (decryption):
-
-$sdes -d 11100001 0000011111
-
+Usage (decryption):  
+$sdes -d 11100001 0000011111  
 Plaintext: 11111111
 
 ***********************************************************************/
