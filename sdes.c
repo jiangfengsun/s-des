@@ -1,9 +1,10 @@
 /* *********************************************************
-    Design and implemented by Jiangfeng Sun, 09/2016
-    Computer Science Department, New Mexico Tech
-	< This is the implementation of S-DES, taking
-	a 8-bit plaintext/ciphertext & a 10-bit key as input,
-	the output is the corresponding ciphertext/plaintext. >
+    Design and implemented by Jiangfeng Sun
+    Computer Science Department, New Mexico Tech.
+    
+    < This is the implementation of S-DES, taking
+    a 8-bit plaintext/ciphertext & a 10-bit key as input,
+    the output is the corresponding ciphertext/plaintext. >
 ********************************************************** */
 
 #include"stdio.h"
