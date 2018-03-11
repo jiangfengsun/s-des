@@ -1,12 +1,9 @@
 # s-des
-A simplified DES (S-DES) as descriped in the attachment (sdes-intro.pdf).
-
-Illustrating DES encryption and decryption.
+A simplified DES (S-DES) as descriped in the attachment (sdes-intro.pdf) to illustrate DES encryption and decryption.
 
 Usage:
 
 /***********************************************************************
-
 sdes [-e] [-d] [text] [key]
 
 
