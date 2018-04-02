@@ -2,8 +2,6 @@
 A simplified DES (S-DES) as descriped in the attachment (sdes-intro.pdf) to illustrate DES encryption and decryption.
 
 **Usage:**
-
-/***********************************************************************
 <br/>
 sdes [-e] [-d] [text] [key]
 <br/>
@@ -30,4 +28,3 @@ e.g. (decryption):<br/>
 $sdes -d 11100001 0000011111
 ```
 Plaintext: 11111111<br/>
-***********************************************************************/
